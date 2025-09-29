@@ -1,4 +1,11 @@
 feature-branch
 練習用
+<<<<<<< HEAD
 編集
 2-5　ファイルの変更と反映
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> df5ee34 (3rd commit)
+
+>>>>>>> e680a40 (3rd commit)
